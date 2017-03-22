@@ -17,10 +17,6 @@
     [[UIColor colorWithRed:244/255.0 green:244/255.0 blue:244/255.0 alpha:0.2]set];
     CGContextFillPath(ctx);
    
-    
-    
-    
-    
 }
 
 
