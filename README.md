@@ -9,6 +9,10 @@ A flashing（twinkling）tag for iOS. 一个 iOS 的会闪烁的标签。
 ![Result](effect.gif)
 
 ## Use
+Add `pod 'HATwinklingTagView'` to your pod file.(Or drag these four files which in the HATwinklingTagView folder to your project.)
+
+Then type the following code.
+
 ```
 NSArray *array = @[@"哇好美！",@"美翻了！",@"美美美！！！！"];
 
