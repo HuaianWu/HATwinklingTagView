@@ -16,3 +16,4 @@ Pod::Spec.new do |s|
   s.public_header_files = 'HATwinklingTagView/*.{h}'
   
   s.frameworks = 'UIKit'
+  end
