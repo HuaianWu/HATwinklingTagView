@@ -9,7 +9,7 @@ A flashing（twinkling）tag for iOS. 一个 iOS 的会闪烁的标签。
 ![Result](effect.gif)
 
 ## Use
-Add `pod 'HATwinklingTagView'` to your pod file.(Or drag these four files which in the HATwinklingTagView folder to your project.)
+Add `pod 'HATwinklingTagView'` to your pod file.(Or drag these four files which in the `HATwinklingTagView` folder to your project.)
 
 Then type the following code.
 
