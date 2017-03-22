@@ -12,7 +12,7 @@
 @interface HATwinklingTagView : UIView
 @property(nonatomic,strong)UIImageView *image;
 @property(nonatomic,strong)NSArray *array;
-@property(nonatomic,strong)TwinkleView *twinkle;
+@property(nonatomic,strong)TwinkleView *twinkleView;
 @property(nonatomic,strong)UIColor *color;
 
 

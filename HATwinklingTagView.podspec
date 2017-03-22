@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name         = 'HATwinklingTagView'
   s.summary      = 'A twinkling tag for iOS.'
-  s.version      = '0.1.0'
+  s.version      = '0.2.0'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.authors      = { 'HuaianWu' => '0@huaian.io' }
   s.social_media_url = 'https://huaian.io'
